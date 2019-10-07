@@ -5,3 +5,4 @@ cmd/webhook/webhook
 coverage.html
 coverage.txt
 .git-hooks.redirected
+dist/
